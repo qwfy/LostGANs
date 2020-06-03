@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from utils.bilinear import *
 from .sync_batchnorm import SynchronizedBatchNorm2d
-from .norm_module import AdaptiveBatchNorm2
+from .norm_module import AdaptiveBatchNorm2d
 import pickle
 import numpy as np
 from torch.nn import Parameter

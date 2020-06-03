@@ -25,3 +25,6 @@ roi_layers.egg-info/
 .ftpconfig
 
 .ftpignore
+
+/.idea/
+/output/
